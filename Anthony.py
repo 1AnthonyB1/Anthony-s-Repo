@@ -13,6 +13,5 @@ while True:
         False
         break
 
-print()
-print("Alright then ",x,"...")
-print("You find yerself in a old sailing ship at sea \n You are unsure how you got there but all \n you know is that you need to get out of there")
+while True:
+    z = input("")
